@@ -2735,3 +2735,93 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 
 !ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 14:40:10.585
 !MESSAGE   activityTypeId=null, isMissingRequiredPlugin=false, exception=null
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.424
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.424
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.445
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.446
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.460
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.461
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.472
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.473
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.493
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.494
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.497
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:21.497
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.studio.maven.plugin 1 0 2023-03-24 15:42:21.643
+!MESSAGE Kind:9, Project:com.tibco.test_cicd
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.712
+!MESSAGE BWDesigntimeResourceValidationHelper.validateActivityRequiredPlugin() Process [com.tibco.test_cicd.Process], Activity [Timer]
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.712
+!MESSAGE   bwActivity = com.tibco.bw.core.model.bwext.impl.BWActivityImpl@39b8d075 (activityTypeID: bw.generalactivities.timer, version: 6.0.0.001)
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.713
+!MESSAGE   activityTypeId=null, isMissingRequiredPlugin=false, exception=null
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.714
+!MESSAGE BWDesigntimeResourceValidationHelper.validateActivityRequiredPlugin() Process [com.tibco.test_cicd.Process], Activity [Log]
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.714
+!MESSAGE   bwActivity = com.tibco.bw.core.model.bwext.impl.BWActivityImpl@291b759f (activityTypeID: bw.generalactivities.log, version: 6.0.0.001)
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:22.714
+!MESSAGE   activityTypeId=null, isMissingRequiredPlugin=false, exception=null
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:24.575
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:24.575
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:40.954
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:40.954
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.studio.maven.plugin 1 0 2023-03-24 15:42:41.075
+!MESSAGE Kind:9, Project:com.tibco.test_cicd
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.139
+!MESSAGE BWDesigntimeResourceValidationHelper.validateActivityRequiredPlugin() Process [com.tibco.test_cicd.Process], Activity [Timer]
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.139
+!MESSAGE   bwActivity = com.tibco.bw.core.model.bwext.impl.BWActivityImpl@61e8cbcc (activityTypeID: bw.generalactivities.timer, version: 6.0.0.001)
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.139
+!MESSAGE   activityTypeId=null, isMissingRequiredPlugin=false, exception=null
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.140
+!MESSAGE BWDesigntimeResourceValidationHelper.validateActivityRequiredPlugin() Process [com.tibco.test_cicd.Process], Activity [Log]
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.140
+!MESSAGE   bwActivity = com.tibco.bw.core.model.bwext.impl.BWActivityImpl@3addf61 (activityTypeID: bw.generalactivities.log, version: 6.0.0.001)
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2023-03-24 15:42:41.142
+!MESSAGE   activityTypeId=null, isMissingRequiredPlugin=false, exception=null
